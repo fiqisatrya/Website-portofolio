@@ -6,7 +6,7 @@ Portfolio website Fiqi Satrya - Fullstack Developer (React, Python, etc.).
 
 1. Push to GitHub repo
 2. Go to Settings > Pages > Source: Deploy from branch 'main'
-3. Site live at https://username.github.io/repo-name
+3. Site live at https://username/repo-name
 
 ## Local Development
 
